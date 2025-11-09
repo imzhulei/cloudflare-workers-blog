@@ -1,7 +1,7 @@
 'use strict';
 const OPT = {
     "user" : "admin", //后台密码请修改
-    "password" : "yourSelfPwd", //后台密码
+    "password" : "70cc9vmVv8tpK5Kf", //后台密码
     "siteDomain" : "blog.18485.top",// 域名(不带https 也不带/)
     "siteName" : "CF workers blog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
